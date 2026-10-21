@@ -1,0 +1,9 @@
+// src/locales/id.json
+{
+  "app": { "title": "Pesanan" },
+  "order": {
+    "count": "Tidak ada pesanan | {n} pesanan | {n} pesanan",
+    "created": "Dibuat pada {date}"
+  },
+  "action": { "save": "Simpan", "cancel": "Batal" }
+}

@@ -1,0 +1,9 @@
+// src/locales/en.json
+{
+  "app": { "title": "Orders" },
+  "order": {
+    "count": "No orders | {n} order | {n} orders",
+    "created": "Created on {date}"
+  },
+  "action": { "save": "Save", "cancel": "Cancel" }
+}
